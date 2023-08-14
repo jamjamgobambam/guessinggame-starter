@@ -2,7 +2,7 @@
 
 This application is a guessing game where the computer tries to guess a number between 1 and 100 that the user is thinking of. The computer's logic is based on binary search. The user's feedback on the computer's guesses (higher, lower, or correct) is predicted using a model.
 
-## Existing Code
+## 🔎 Existing Code
 
 ### GuessingGame.java
 
@@ -42,7 +42,7 @@ The `Loading` class manages the loading animations and labels shown during camer
 * Display a loading percentage or estimated time remaining.
 * Implement a retry or cancel mechanism for prolonged loading times.
 
-## TO DO: GameLogic.java
+## ✅ TO DO: GameLogic.java
 
 The `GameLogic` class controls the core mechanics of the game, determining the computer's guessing strategy and processing user input.
 
